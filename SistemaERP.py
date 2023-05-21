@@ -304,7 +304,7 @@ if autenticou:
 
     if usuarioSupremo:
         decisaoUsuario = 1
-        while decisaoUsuario  != 0:
+        while decisaoUsuario != 0:
             decisaoUsuario = int(input('Selecione: \n 0 Sair \n 1 Cadastrar Produto \n 2 Listar Produtos \n 3 Listar Pedidos\n 4 Visualizar Estatísticas\n'))
             if decisaoUsuario == 1:
                 cadastrarProduto()
