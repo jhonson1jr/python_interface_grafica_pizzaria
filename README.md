@@ -1,4 +1,4 @@
-## Python via Console + MySQL com pymysql e matplotlib
+## Python com Interface Gráfica + MySQL com pymysql e tkinter
 
 ### Necessários: PyCharm, MySQL
 
